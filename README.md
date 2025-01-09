@@ -11,9 +11,9 @@
 * You can go Git on a server/website here on Github
 
 ### Repo (repository)
-* A place to store your files
+* A place to store your -files
 
 ### Commit
 * This is to change your files or to save it
 * You can add a note to every save
-* This can help in collaberations because it can keep things orangized and know what each save was for.
+* This can help in collaborations because it can keep things orangized and know what each save was for.
